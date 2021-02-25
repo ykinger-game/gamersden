@@ -1,0 +1,1 @@
+Run docker-compose up and the project should be accessible on http://localhost:8081

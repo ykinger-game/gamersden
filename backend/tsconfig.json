@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "strict": true,
+        "importHelpers": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "outDir": "dist",
+    },
+    "include": [
+        "**/*.ts",
+        "**/*.tsx", 
+        "src/config/database.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
